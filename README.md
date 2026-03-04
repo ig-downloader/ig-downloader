@@ -114,15 +114,17 @@ I have worked on projects like:
 
 ---
 
-<table>
+<div align="center">
+
+<table width="650">
 <tr>
-<td>
+<td width="340">
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320"/>
 
 </td>
 
-<td align="left">
+<td>
 
 > "There are two ways to write error-free programs.  
 > Only the third one works."
@@ -130,6 +132,8 @@ I have worked on projects like:
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
