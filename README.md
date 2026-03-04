@@ -105,6 +105,7 @@ I have worked on projects like:
 
 ## 📊 GitHub Stats:
 
+<div align="center"> 
 <table>
 <tr>
 <td width="70%">
@@ -122,6 +123,7 @@ I have worked on projects like:
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
