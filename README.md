@@ -105,15 +105,31 @@ I have worked on projects like:
 
 ## 📊 GitHub Stats:
 
+<div align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=bsjana007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bsjana007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bsjana007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
 ### ✍️ Random Dev Quote
+
+<div align="center">
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200"/>
+</div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
 ### 🔝 Top Contributed Repo
+
+<div align="center">
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
+</div>
 
 ![](https://github-contributor-stats.vercel.app/api?username=bsjana007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
