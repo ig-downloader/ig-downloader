@@ -122,7 +122,7 @@ I have worked on projects like:
 ---
 
 <table>
-<tr>
+<tr width="100%>
 <td width="50%">
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320"/>
