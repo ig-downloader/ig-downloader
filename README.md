@@ -16,7 +16,9 @@ I have worked on projects like:
 - 📒 A **notebook app for daily life tracking**
 - 🛒 An **e-commerce website like More**
 
-> "I don’t always test my code… but when I do, I do it in production."
+<p align="center">
+  <i>"I don’t always test my code… but when I do, I do it in production."</i>
+</p>
 
 
 ## 🌐 Socials:
@@ -95,7 +97,9 @@ I have worked on projects like:
 
 ---
 
-> "It works on my machine."
+<p align="center">
+  <i>"It works on my machine."</i>
+</p>
 
 ---
 
@@ -139,5 +143,5 @@ I have worked on projects like:
 ---
 
 <p align="center">
-  <i>Curious mind. Low-level focus. Intelligent systems.</i>
+  <i>Curious mind. Smart idea. Terrible implementation.</i>
 </p>
