@@ -129,41 +129,13 @@ I have worked on projects like:
 
 ### ✍️ Random Dev Quote
 
-<table>
-<tr>
-<td width="70%">
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</td>
-
-<td width="30%" align="center">
-
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
 ### 🔝 Top Contributed Repo
 
-<table>
-<tr>
-<td width="70%">
-
 ![](https://github-contributor-stats.vercel.app/api?username=bsjana007&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</td>
-
-<td width="30%" align="center">
-
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
