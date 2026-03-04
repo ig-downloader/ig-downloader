@@ -1,8 +1,8 @@
 ## Hi there, I'm Bhabani Sankar Jana 👋
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-
 # 💫 About Me:
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 I’m a passionate student currently learning **Web Development, MERN Stack, and Artificial Intelligence & Machine Learning**.  
 I enjoy building **real-world projects that solve practical problems and improve user experience.**
@@ -16,8 +16,7 @@ I have worked on projects like:
 - 📒 A **notebook app for daily life tracking**
 - 🛒 An **e-commerce website like More**
 
-> “Programs must be written for people to read, and only incidentally for machines to execute.”  
-> — Harold Abelson
+> "I don’t always test my code… but when I do, I do it in production."
 
 ---
 
@@ -99,10 +98,7 @@ I have worked on projects like:
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
-> “First, solve the problem. Then, write the code.”  
-> — John Johnson
+> "It works on my machine."
 
 ---
 
@@ -118,7 +114,10 @@ I have worked on projects like:
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> "99 little bugs in the code,  
+> 99 bugs in the code.  
+> Fix one bug, compile again,  
+> 127 bugs in the code."
 
 ---
 
@@ -128,10 +127,10 @@ I have worked on projects like:
 
 ---
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320"/>
 
-> “Any fool can write code that a computer can understand.  
-> Good programmers write code that humans can understand.”
+> "There are two ways to write error-free programs.  
+> Only the third one works."
 
 ---
 
