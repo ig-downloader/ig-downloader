@@ -121,16 +121,22 @@ I have worked on projects like:
 
 ---
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=bsjana007&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
+<table>
+<tr>
+<td width="50%">
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320"/>
 
+</td>
+
+<td width="50%">
+
 > "There are two ways to write error-free programs.  
 > Only the third one works."
+
+</td>
+</tr>
+</table>
 
 ---
 
