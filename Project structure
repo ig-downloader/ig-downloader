@@ -1,0 +1,14 @@
+ig-downloader/
+├── app/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── schemas.py
+│   ├── store.py
+│   ├── scraper.py
+│   ├── worker.py
+│   └── main.py
+├── tests/
+│   └── test_api.py
+├── requirements.txt
+├── Dockerfile
+└── .env.example
